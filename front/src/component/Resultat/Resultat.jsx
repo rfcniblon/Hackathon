@@ -21,6 +21,7 @@ class ResultatInput extends React.Component {
     render() {
       return (
         <form onSubmit={this.handleSubmit}>
+          <p>Entrée le code final pour vérification</p>
             <input type="text" className="input_result" value={this.state.value} onChange={this.handleChange} />
           <input type="submit" className="bouton_result" value="Envoyer" />
         </form>
