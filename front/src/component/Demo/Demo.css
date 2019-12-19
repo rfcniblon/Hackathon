@@ -1,8 +1,3 @@
-.colorWhite{
-    /* display: none; */
-     color: white; 
-    /* font-size: 4rem; */
-}
 
 /* #slidebar{
   display: none;
@@ -123,9 +118,30 @@ input, select, textarea {
     border-bottom: dotted 1px;
     color: #f56a6a;
     text-decoration: none; }
-    a:hover {
+    a:hover.a {
       border-bottom-color: #f56a6a;
-      color: #f56a6a !important; }
+      color: #ffe609 !important; }
+    a:hover.b {
+      border-bottom-color: #f56a6a;
+      color: #00f7ff !important; }
+    a:hover.c {
+      border-bottom-color: #f56a6a;
+      color: #ff00ea !important; }
+    a:hover.d {
+      border-bottom-color: #f56a6a;
+      color: #fb2307 !important; }
+    a:hover.e {
+      border-bottom-color: #f56a6a;
+      color: #0075fa !important; }
+    a:hover.f {
+      border-bottom-color: #f56a6a;
+      color: #06cf27 !important; }
+    a:hover.g {
+      border-bottom-color: #f56a6a;
+      color: #a200ff !important; }
+    a:hover.h {
+        border-bottom-color: #f56a6a;
+        color: #ff7b00 !important; }
       a:hover strong {
         color: inherit; }
   
@@ -1385,7 +1401,7 @@ input, select, textarea {
         font-family: 'Font Awesome 5 Free';
         font-weight: 400; }
       ul.contact li:before {
-        color: #f56a6a;
+        color: #f56a6f;
         display: inline-block;
         font-size: 1.5em;
         height: 1.125em;
@@ -1433,7 +1449,7 @@ input, select, textarea {
           background-color: #f56a6a;
           color: #ffffff !important; }
           ul.pagination li > .page.active:hover {
-            background-color: #f67878; }
+            background-color: #78f68d; }
           ul.pagination li > .page.active:active {
             background-color: #f45c5c; }
       ul.pagination li:first-child {
@@ -2280,3 +2296,21 @@ input, select, textarea {
       border-top: 0;
       margin-top: 0;
       padding-top: 0; }
+
+.colorWhite{
+    /* display: none; */
+    /* color: white;  */
+    /* font-size: 4rem; */
+}
+#indice-2{
+  width: 50%;
+}
+    .modal-p{
+      font-size: large;
+    }
+    #dispBlock{
+      display: block;
+    }
+    #dispNone{
+      display: none;
+    }
