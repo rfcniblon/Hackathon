@@ -10,7 +10,9 @@ puis dans le repertoire config ce trouve un fichier database, renseigner vos inf
 npm start   
 
 le serveur ecoute sur le port 5000
+
 ***pour le front***
+
 cd front
 npm i
 puis npm start  et bon courage 
