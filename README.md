@@ -1,5 +1,5 @@
 # Hackathon Wild Code School
-***Configuration de l'application ***
+**Configuration de l'application 
 
 ***pour le back***
 
